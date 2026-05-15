@@ -4,3 +4,5 @@ abcd
 
 fetch test
 online update
+
+fetch test2
